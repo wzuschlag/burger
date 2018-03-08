@@ -1,0 +1,41 @@
+body { 
+  background-image: url(http://www.guoguiyan.com/data/out/29/68407632-burger-wallpapers.png);
+  background-size:  cover;
+  background-color: #00000000;  
+}
+
+html, body{
+  height: 100%;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+img {
+  align-content: center;
+}
+
+li {
+  padding: 10px;
+  margin: 10px;
+  background: #FFFEAA;
+  list-style: none;
+  border: 2px black solid;
+}
+
+ul {
+	list-style: none;
+}
+
+.center {
+	text-align: center;
+}
+
+.create-update-form {
+  padding: 25px;
+  margin: 25px;
+  background: #FFFEAA;
+  border: 2px black solid;
+}
+
