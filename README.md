@@ -11,7 +11,7 @@
 
 video to show the web app works and interacts with mysql database.
 
-![video](/screenshots/Burger_Run.mov)
+![run_video](/screenshots/Burger_Run.mov)
 
 ###### launch program at command prompt > node server.js
 
