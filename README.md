@@ -9,6 +9,10 @@
 * express-handlebars
 * method-override
 
+video to show the web app works and interacts with mysql database.
+
+![video](/screenshots/Burger_Run.mov)
+
 ###### launch program at command prompt > node server.js
 
 Using mysql workbench and files schema.sql and seeds.sql to create the initial burger list for devour them. 
