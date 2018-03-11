@@ -10,6 +10,7 @@
 * method-override
 
 video to show the web app works and interacts with mysql database.
+located in the screenshots directory called Burger_Run.mov
 
 ![run_video](/screenshots/Burger_Run.mov)
 
