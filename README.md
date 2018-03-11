@@ -13,4 +13,4 @@
 
 Using mysql workbench and file schema.sql to create the initial invetory list for a hardware store. 
 
-![initial start](/screenshot/wedsite_start.png)
+![initial start](/screenshots/wedsite_start.png)
