@@ -14,7 +14,7 @@
 Using mysql workbench and files schema.sql and seeds.sql to create the initial burger list for devour them. 
 
 ![initial start](/screenshots/wedsite_start.png)
-![initial start](/screenshots/wedsite_start.png)
-![initial start](/screenshots/wedsite_start.png)
-![initial start](/screenshots/wedsite_start.png)
-![initial start](/screenshots/wedsite_start.png)
+![initial start](/screenshots/Add_Burger.png)
+![initial start](/screenshots/Database_start.png)
+![initial start](/screenshots/Devour_burgers.png)
+![initial start](/screenshots/MoveOneMore.png)
