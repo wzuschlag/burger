@@ -12,8 +12,9 @@
 ###### launch program at command prompt > node server.js
 
 Using mysql workbench and files schema.sql and seeds.sql to create the initial burger list for devour them. 
-
+Pic of inital screen.
 ![initial start](/screenshots/wedsite_start.png)
+
 ![initial start](/screenshots/Add_Burger.png)
 ![initial start](/screenshots/Database_start.png)
 ![initial start](/screenshots/Devour_burgers.png)
