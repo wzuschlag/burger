@@ -22,8 +22,8 @@ Pic showing burgers being devoured
 Pic adding a Hawaiian burger to the list
 ![initial start](/screenshots/Add_Burger.png)
 
+Pic of the database setup
 ![initial start](/screenshots/Database_start.png)
 
-
-
+Pic showing more burgers moving
 ![initial start](/screenshots/MoveOneMore.png)
