@@ -11,6 +11,6 @@
 
 ###### launch program at command prompt > node server.js
 
-Using mysql workbench and file schema.sql to create the initial invetory list for a hardware store. 
+Using mysql workbench and files schema.sql and seeds.sql to create the initial burger list for devour them. 
 
 ![initial start](/screenshots/wedsite_start.png)
