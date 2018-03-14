@@ -2,7 +2,12 @@
 
 ### BC Homework #14 using handlebars 
 ##### Create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!).  Use Node and MySQL to query and route data in app, and Handlebars to generate HTML. 
-###### To begin running this app you will need to istall the following npm's
+
+#### To start this app from a Web browser copy and paste for following path
+#### https://infinite-sea-32514.herokuapp.com/
+
+#### To launch program at command prompt > node server.js
+###### First begin by istalling the following npm's
 * mysql
 * express
 * body-parser
@@ -14,8 +19,6 @@ located in the screenshots directory called Burger_Run.mov
 
 ![run_video](/screenshots/Burger_Run.mov)
 
-#### launch program at command prompt > node server.js
-#### or from a Web browser https://infinite-sea-32514.herokuapp.com/
 
 Using mysql workbench and files schema.sql and seeds.sql to create the initial burger list for devour them. 
 
