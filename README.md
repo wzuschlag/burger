@@ -15,7 +15,7 @@ located in the screenshots directory called Burger_Run.mov
 ![run_video](/screenshots/Burger_Run.mov)
 
 #### launch program at command prompt > node server.js
-#### or from a brouser https://infinite-sea-32514.herokuapp.com/
+#### or from a Web browser https://infinite-sea-32514.herokuapp.com/
 
 Using mysql workbench and files schema.sql and seeds.sql to create the initial burger list for devour them. 
 
